@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutoBlog TrueCar TestCases">
+
+
+
+
+<test name="BaseTest">
+    <classes>
+        <class name="Testcases.BaseTest" ></class>  
+    </classes>
+</test>
+
+<test name="Getting Car Certificate">
+    <classes>
+        <class name="Testcases.CarCertificateTest" ></class>  
+    </classes>
+</test>
+
+</suite>
