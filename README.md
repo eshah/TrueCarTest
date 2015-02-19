@@ -53,3 +53,13 @@ Project has 2 packages which includes configuration files and testcase suites in
 - Data Provider Annotation
 - Can run testcase in a complete suite no need to run one by one.
 
+## Future Enhancments
+- Adding more Validation and Assertions
+- Creating different classes depending on scenarios
+- Data Class to provide Testdata 
+
+## Compromise
+- hard coded data 
+- need more handling for exception
+- cover only positive scenarios which will pass, so need to add more negative scenarios to manage proper testing, failures.
+
