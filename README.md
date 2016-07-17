@@ -32,7 +32,7 @@ Running:
 
 Also. you can verify running test by having Console open in Eclipse
 - TestNg console : "Results of running suite"
-
+- esha test
 
 ## Brief Project Overview:
 - Created a Selenium Webdriver Project using JAVA and Testng framework
